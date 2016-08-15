@@ -1,0 +1,29 @@
+bareGround,ocular estimate of percent cover of bare ground
+countOfStems,count of stems present on a surveyed Castilleja levisecta
+disturbance,ocular estimate of percent cover of disturbance
+flowers,count of flowers present
+forbs,ocular estimate of percent cover of forbs
+grass,ocular estimate of percent cover of grass
+grazed,indicates whether surveyed individuals has been subject to herbivory
+grazed_2010,"indicates whether surveyed individuals has been subject to herbivory, 2010"
+grazed_2011,"indicates whether surveyed individuals has been subject to herbivory, 2011"
+leaves_2010,"count of leaves on a surveyed individual, 2010"
+leaves_2011,"count of leaves on a surveyed individual, 2011"
+litterCover,"ocular estimate of percent cover of litter, 2011 only"
+litterDepth,"mean litter depth, cm, calculated from five point measurements"
+longest stem,length of the longest stem on a surveyed Castilleja levisecta
+meanStemLength,mean stem length for surveyed Castilleja levisecta individuals
+moss,ocular estimate of percent cover of moss
+notes_2010,"individual level remarks, 2010"
+notes_2011,"individual level remarks, 2011"
+plantID,"unique identifier for the individual, unique within plot"
+scarified,indicates whether Lupine seeds within the split-plot where scarified prior to broadcast
+side,"side (right, left) of a split plot"
+site,field site identifier
+speciesID,taxonID of the species surveyed
+stemLength#,"length, cm, of a measured stem of Castilleja levisecta"
+sumOfStems,sum of all measured stem lengths
+treatment,treatment history of the plot
+trtUnit,"unique identifier for the plot, unique within site"
+voleDisturbance,"ocular estimate of percent cover of disturbance by voles, 2011 only"
+year,year survey was conducted
