@@ -1,0 +1,3 @@
+
+
+Model # 1228, Response Var Germ.per,	cutoff 0.000, Form LM,	Eval xR2 0.9406, Ave size 5.1, Pred count 2, Variabl 1 warm, Tolerance 0.8000, Variable 2 cold, Tolerance 1.2

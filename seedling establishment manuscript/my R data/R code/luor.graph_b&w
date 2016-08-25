@@ -1,0 +1,26 @@
+luor<-read.csv('LUOR4r.csv')
+attach(luor)
+
+site.code<-ifelse(Site=="Bellfountain",1,0)
+site.code2<-ifelse(Site=="Pigeon Butte",2,0)
+site.code3<-site.code+site.code2
+
+luor.ns<-luor[which(luor$Scarified=='n'),]
+detach(luor)
+attach(luor)
+
+plot(LUOR2010~LD2010, ylim=c(0,60), pch=(site.code3+1), pt.cex=2,  
+	xlab= "Litter Depth (cm)", ylab="Establishment (%)")
+
+	bf.ns.estab<-lm(LUOR2010 ~ LD2010, subset=(Site=="Bellfountain"))
+	abline(bf.ns.estab, col="black", lwd=2)
+
+	pb.ns.estab<-lm(LUOR2010 ~ LD2010, subset=(Site=="Pigeon Butte"))
+	abline(pb.ns.estab, col="black", lwd=2, lty=2)
+
+	fh.ns.estab<-lm(LUOR2010 ~ LD2010, subset=(Site=="Ft. Hoskins"))
+	abline(fh.ns.estab, col="black", lwd=2, lty=4)
+
+legend("bottomright", inset=.06, legend=c("Bellfountain", "Pigeon Butte", "Ft. Hoskins"),
+	merge=F, col=c("black"), pch=c(2,3,1), pt.cex=1.5, cex=.9, pt.lwd=1.5, lty=c(1,2,4), lwd=c(2))
+	

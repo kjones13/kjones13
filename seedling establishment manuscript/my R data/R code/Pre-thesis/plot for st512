@@ -1,0 +1,53 @@
+scar.code<-ifelse(Scarified=="n",1,0)
+
+plot(LUSUKI ~ Av..LitterDepth, pch=(scar.code +16),col=(scar.code+3),xlab="Litter Depth (cm)",
+	ylab="# of established Lupine seedlings",
+	main="Lupine Establishment vs. Litter Depth")
+
+fit.scar<-lm(LUSUKI~Av..LitterDepth, subset=(Scarified=="n"))
+abline(fit.scar,col="blue", lwd=2 )
+
+fit.noscar<-lm(LUSUKI~Av..LitterDepth, subset=(Scarified=="y"))
+abline(fit.noscar, col="green", lwd=2, lty=2)
+
+legend("topright",legend=c("Unscarified Seeds","Scarified Seeds"),
+	pch=c(17,16),
+	col=c(4,3),cex=1.5)
+
+####
+n<-length(Av..GrassCover)
+my.grass<- seq(0, 7, length=118)
+data.for.predict.20<- data.frame(my.grass, (Av..GrassCover=rep(20,n)))
+myband<- predict(Av..GrassCover, data.for.predict.20,)
+lines(my.litter, myband, col="red")
+
+predict.50<- data.frame(my.litter, Av..GrassCover=rep(50,n))
+myband<- predict(litter, predict.50)
+lines(my.litter, myband, col="blue")
+
+predict.80<- data.frame(my.litter, Av..GrassCover=rep(80,n))
+myband<- predict(litter, predict.80,)
+lines(my.litter, myband, col="green")
+
+abline(lm(LUSUKI~Av..LitterDepth))
+
+####
+
+
+my.year <- seq(1890,1927,length=100)
+
+data.for.predict.8 <- data.frame(year=my.year,rainfall=rep(8,n),rainsq=rep(8^2,n))
+myband <- predict(fit5,data.for.predict.8,interval="confidence")
+lines(my.year,myband[,1],col="red",lwd=2.5)
+lines(my.year,myband[,2],col="red",lty=2)
+lines(my.year,myband[,3],col="red",lty=3)
+
+data.for.predict.11 <- data.frame(year=my.year,rainfall=rep(11,n),rainsq=rep(11^2,n))
+myband <- predict(fit5,data.for.predict.11,interval="confidence")
+lines(my.year,myband[,1],col="orange",lwd=2.5)
+lines(my.year,myband[,2],col="orange",lty=2)
+lines(my.year,myband[,3],col="orange",lty=3)
+
+legend("bottomright",legend=c("If rainfall = 8 inches","If rainfall = 11 inches"),
+	lty=c(1,1),col=c("red","orange"))
+

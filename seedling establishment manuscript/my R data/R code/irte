@@ -1,0 +1,73 @@
+IRTE<-read.csv('IRTE4r.csv')
+
+###Survival###
+
+attach(IRTE)
+
+
+detach(IRTE)
+attach(IRTE.bf)
+t.test(Survival, Max.survival)
+anova(lm(Survival~Site))
+
+summary(lm(Max.survival~ Site + G2011))
+	bf.survival<-lm(Max.survival ~ G2011,subset=(Site=="Bellfountain"))
+	abline(bf.survival,col="blue", lwd=2 )
+
+	pb.survival<-lm(Max.survival ~ G2011, subset=(Site=="Pigeon Butte"))
+	abline(pb.survival, col="cyan", lwd=2, lty=2)
+
+	fh.survival<-lm(Max.survival ~ G2011, subset=(Site=="Ft. Hoskins"))
+	abline(fh.survival, col="green", lwd=3, lty=3)
+
+summary(lm(Max.survival~ Site + F2011)
+	plot(Max.survival~Site+F2011)
+
+	bf.survival<-lm(Max.survival ~ F2011,subset=(Site=="Bellfountain"))
+	abline(bf.survival,col="blue", lwd=2 )
+
+	pb.survival<-lm(Max.survival ~ F2011, subset=(Site=="Pigeon Butte"))
+	abline(pb.survival, col="cyan", lwd=2, lty=2)
+
+	fh.survival<-lm(Max.survival ~ F2011, subset=(Site=="Ft. Hoskins"))
+	abline(fh.survival, col="green", lwd=3, lty=3)
+
+#####
+
+IRTE.bf<-IRTE[which(IRTE$Site=='Bellfountain'),]
+dim(IRTE.bf)
+detach(IRTE.pb)
+attach(IRTE.fh)
+
+summary(lm(Survival~G2011))
+summary(lm(Survival~F2011))
+summary(lm(Survival~M2011))
+summary(lm(Survival~B2011))
+summary(lm(Survival~D2011))	
+summary(lm(Survival~L2011))
+summary(lm(Survival~LD2011))
+summary(lm(Survival~Vole))	
+summary(lm(Survival~Veg2011))
+
+IRTE.bf.AIC<-lm(Survival~G2011+F2011+M2011+
+	B2011+D2011+LD2011+L2011+Vole)
+step(IRTE.fh.AIC, direction = c("both"))
+	
+	summary(lm(  Max.survival ~ G2011 + F2011 + M2011 + LD2011 +     L2011 + Vole))
+plot(lm( Max.survival ~ D2011 + Vole))
+
+detach(IRTE.bf)
+
+#######
+
+attach(IRTE)
+
+IRTE.matrix<-cbind(Max.survival, Site, G2011, F2011, Veg2011,
+	M2011, B2011, D2011, LD2011, L2011, Vole)
+
+IRTE.matrix<-as.data.frame(IRTE.s.matrix)
+pairs(IRTE.matrix)
+
+boxplot(Max.survival~Site)
+
+

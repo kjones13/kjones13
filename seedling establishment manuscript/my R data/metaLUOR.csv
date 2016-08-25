@@ -1,0 +1,359 @@
+ID,plot #,Scarified,seeded,Germinants,proportion,month seeded,paired,year,source,SiteID
+1,1,yes,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+2,2,yes,25,4,0.16,Nov,yes,2008,EE wilson,EE wilson2008
+3,3,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+4,4,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+5,5,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+6,6,no,25,3,0.12,Nov,yes,2008,EE wilson,EE wilson2008
+7,7,no,25,7,0.28,Nov,yes,2008,EE wilson,EE wilson2008
+8,8,yes,25,2,0.08,Nov,yes,2008,EE wilson,EE wilson2008
+9,9,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+10,10,no,25,2,0.08,Nov,yes,2008,EE wilson,EE wilson2008
+11,11,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+12,12,yes,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+13,13,no,25,5,0.2,Nov,yes,2008,EE wilson,EE wilson2008
+14,14,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+15,15,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+16,16,no,25,7,0.28,Nov,yes,2008,EE wilson,EE wilson2008
+17,17,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+18,18,no,25,2,0.08,Nov,yes,2008,EE wilson,EE wilson2008
+19,19,no,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+20,20,no,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+21,21,no,25,10,0.4,Nov,yes,2008,EE wilson,EE wilson2008
+22,22,no,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+23,23,no,25,5,0.2,Nov,yes,2008,EE wilson,EE wilson2008
+24,24,no,25,6,0.24,Nov,yes,2008,EE wilson,EE wilson2008
+25,25,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+26,26,no,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+27,27,no,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+28,28,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+29,29,no,25,3,0.12,Nov,yes,2008,EE wilson,EE wilson2008
+30,30,no,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+31,31,no,25,2,0.08,Nov,yes,2008,EE wilson,EE wilson2008
+32,32,yes,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+33,33,no,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+34,34,yes,25,9,0.36,Nov,yes,2008,EE wilson,EE wilson2008
+35,35,yes,25,13,0.52,Nov,yes,2008,EE wilson,EE wilson2008
+36,36,no,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+37,37,no,25,3,0.12,Nov,yes,2008,EE wilson,EE wilson2008
+38,38,no,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+39,39,yes,25,1,0.04,Nov,yes,2008,EE wilson,EE wilson2008
+40,40,yes,25,0,0,Nov,yes,2008,EE wilson,EE wilson2008
+41,2,no,250,41,0.164,Fall,yes,2010,Raindance,Raindance2010
+42,4,no,250,29,0.116,Fall,yes,2010,Raindance,Raindance2010
+43,8,no,250,39,0.156,Fall,yes,2010,Raindance,Raindance2010
+44,10,no,250,21,0.084,Fall,yes,2010,Raindance,Raindance2010
+45,11,no,250,24,0.096,Fall,yes,2010,Raindance,Raindance2010
+46,12,no,250,52,0.208,Fall,yes,2010,Raindance,Raindance2010
+47,13,no,250,59,0.236,Fall,yes,2010,Raindance,Raindance2010
+48,15,no,250,35,0.14,Fall,yes,2010,Raindance,Raindance2010
+49,17,no,250,60,0.24,Fall,yes,2010,Raindance,Raindance2010
+50,19,no,250,29,0.116,Fall,yes,2010,Raindance,Raindance2010
+51,1,yes,250,2,0.008,Fall,yes,2010,Raindance,Raindance2010
+52,3,yes,250,2,0.008,Fall,yes,2010,Raindance,Raindance2010
+53,5,yes,250,3,0.012,Fall,yes,2010,Raindance,Raindance2010
+54,6,yes,250,3,0.012,Fall,yes,2010,Raindance,Raindance2010
+55,7,yes,250,2,0.008,Fall,yes,2010,Raindance,Raindance2010
+56,9,yes,250,1,0.004,Fall,yes,2010,Raindance,Raindance2010
+57,14,yes,250,5,0.02,Fall,yes,2010,Raindance,Raindance2010
+58,16,yes,250,4,0.016,Fall,yes,2010,Raindance,Raindance2010
+59,18,yes,250,1,0.004,Fall,yes,2010,Raindance,Raindance2010
+60,20,yes,250,0,0,Fall,yes,2010,Raindance,Raindance2010
+102,1,yes,250,23,0.092,fall,no,2010,Fitton Green,Fitton Green2010
+103,2,no,250,76,0.304,fall,no,2010,Fitton Green,Fitton Green2010
+104,3,no,250,46,0.184,fall,no,2010,Fitton Green,Fitton Green2010
+105,4,no,250,50,0.2,fall,no,2010,Fitton Green,Fitton Green2010
+106,5,no,250,69,0.276,fall,no,2010,Fitton Green,Fitton Green2010
+107,6,yes,250,10,0.04,fall,no,2010,Fitton Green,Fitton Green2010
+108,7,no,250,76,0.304,fall,no,2010,Fitton Green,Fitton Green2010
+109,8,no,250,122,0.488,fall,no,2010,Fitton Green,Fitton Green2010
+110,9,yes,250,16,0.064,fall,no,2010,Fitton Green,Fitton Green2010
+111,10,no,250,60,0.24,fall,no,2010,Fitton Green,Fitton Green2010
+112,11,yes,250,4,0.016,fall,no,2010,Fitton Green,Fitton Green2010
+113,12,yes,250,10,0.04,fall,no,2010,Fitton Green,Fitton Green2010
+114,13,no,250,75,0.3,fall,no,2010,Fitton Green,Fitton Green2010
+115,14,yes,250,12,0.048,fall,no,2010,Fitton Green,Fitton Green2010
+116,15,yes,250,19,0.076,fall,no,2010,Fitton Green,Fitton Green2010
+117,16,yes,250,9,0.036,fall,no,2010,Fitton Green,Fitton Green2010
+118,17,yes,250,7,0.028,fall,no,2010,Fitton Green,Fitton Green2010
+119,18,yes,250,13,0.052,fall,no,2010,Fitton Green,Fitton Green2010
+120,19,no,250,62,0.248,fall,no,2010,Fitton Green,Fitton Green2010
+121,20,no,250,68,0.272,fall,no,2010,Fitton Green,Fitton Green2010
+122,1,no,250,50,0.2,fall,no,2010,Philomath Praire,Philomath Praire2010
+123,2,no,250,100,0.4,fall,no,2010,Philomath Praire,Philomath Praire2010
+124,3,no,250,60,0.24,fall,no,2010,Philomath Praire,Philomath Praire2010
+125,4,yes,250,25,0.1,fall,no,2010,Philomath Praire,Philomath Praire2010
+126,5,no,250,78,0.312,fall,no,2010,Philomath Praire,Philomath Praire2010
+127,6,no,250,106,0.424,fall,no,2010,Philomath Praire,Philomath Praire2010
+128,7,no,250,84,0.336,fall,no,2010,Philomath Praire,Philomath Praire2010
+129,8,yes,250,19,0.076,fall,no,2010,Philomath Praire,Philomath Praire2010
+130,9,no,250,63,0.252,fall,no,2010,Philomath Praire,Philomath Praire2010
+131,10,no,250,96,0.384,fall,no,2010,Philomath Praire,Philomath Praire2010
+132,11,no,250,95,0.38,fall,no,2010,Philomath Praire,Philomath Praire2010
+133,12,no,250,121,0.484,fall,no,2010,Philomath Praire,Philomath Praire2010
+134,13,yes,250,37,0.148,fall,no,2010,Philomath Praire,Philomath Praire2010
+135,14,yes,250,20,0.08,fall,no,2010,Philomath Praire,Philomath Praire2010
+136,15,yes,250,34,0.136,fall,no,2010,Philomath Praire,Philomath Praire2010
+137,16,yes,250,27,0.108,fall,no,2010,Philomath Praire,Philomath Praire2010
+138,17,yes,250,20,0.08,fall,no,2010,Philomath Praire,Philomath Praire2010
+139,18,yes,250,20,0.08,fall,no,2010,Philomath Praire,Philomath Praire2010
+140,19,yes,250,28,0.112,fall,no,2010,Philomath Praire,Philomath Praire2010
+141,20,yes,250,20,0.08,fall,no,2010,Philomath Praire,Philomath Praire2010
+142,,no,25,0,0,,yes,2003,Starck,Starck2003
+143,,no,25,3,0.12,,yes,2003,Starck,Starck2003
+144,,no,25,7,0.28,,yes,2003,Starck,Starck2003
+145,,no,25,0,0,,yes,2003,Starck,Starck2003
+146,,no,25,0,0,,yes,2003,Starck,Starck2003
+147,,no,25,0,0,,yes,2003,Starck,Starck2003
+148,,no,25,1,0.04,,yes,2003,Starck,Starck2003
+149,,no,25,0,0,,yes,2003,Starck,Starck2003
+150,,no,25,0,0,,yes,2003,Starck,Starck2003
+151,,no,25,0,0,,yes,2003,Starck,Starck2003
+152,,no,25,0,0,,yes,2003,Starck,Starck2003
+153,,no,25,0,0,,yes,2003,Starck,Starck2003
+154,,no,25,0,0,,yes,2003,Starck,Starck2003
+155,,no,25,0,0,,yes,2003,Starck,Starck2003
+156,,yes,25,6,0.24,,yes,2003,Starck,Starck2003
+157,,yes,25,1,0.04,,yes,2003,Starck,Starck2003
+158,,yes,25,4,0.16,,yes,2003,Starck,Starck2003
+159,,yes,25,0,0,,yes,2003,Starck,Starck2003
+160,,yes,25,6,0.24,,yes,2003,Starck,Starck2003
+161,,yes,25,3,0.12,,yes,2003,Starck,Starck2003
+162,,yes,25,0,0,,yes,2003,Starck,Starck2003
+163,,yes,25,0,0,,yes,2003,Starck,Starck2003
+164,,yes,25,0,0,,yes,2003,Starck,Starck2003
+165,,yes,25,1,0.04,,yes,2003,Starck,Starck2003
+166,,yes,25,0,0,,yes,2003,Starck,Starck2003
+167,,yes,25,1,0.04,,yes,2003,Starck,Starck2003
+168,,yes,25,1,0.04,,yes,2003,Starck,Starck2003
+169,,yes,25,5,0.2,,yes,2003,Starck,Starck2003
+170,,yes,25,0,0,,yes,2003,Starck,Starck2003
+171,,yes,25,2,0.08,,yes,2003,Starck,Starck2003
+218,,yes,50,16,0.32,,,2003,Pigeon Butte,Pigeon Butte2003
+219,,no,50,24,0.48,,,2003,Pigeon Butte,Pigeon Butte2003
+220,,no,50,11,0.22,,,2003,Pigeon Butte,Pigeon Butte2003
+221,,no,50,14,0.28,,,2003,Pigeon Butte,Pigeon Butte2003
+222,,yes,50,14,0.28,,,2003,Pigeon Butte,Pigeon Butte2003
+223,,yes,50,17,0.34,,,2003,Pigeon Butte,Pigeon Butte2003
+224,,yes,50,7,0.14,,,2003,Pigeon Butte,Pigeon Butte2003
+225,,yes,50,8,0.16,,,2003,Pigeon Butte,Pigeon Butte2003
+226,,no,50,18,0.36,,,2003,Pigeon Butte,Pigeon Butte2003
+227,,no,50,16,0.32,,,2003,Pigeon Butte,Pigeon Butte2003
+228,1,no,50,4,0.08,Nov,yes,2000,Isabelle,Isabelle2000
+229,1,yes,50,3,0.06,Nov,yes,2000,Isabelle,Isabelle2000
+230,2,no,50,20,0.4,Nov,yes,2000,Isabelle,Isabelle2000
+231,2,yes,50,16,0.32,Nov,yes,2000,Isabelle,Isabelle2000
+232,3,no,50,1,0.02,Nov,yes,2000,Isabelle,Isabelle2000
+233,3,yes,50,1,0.02,Nov,yes,2000,Isabelle,Isabelle2000
+234,4,no,50,16,0.32,Nov,yes,2000,Isabelle,Isabelle2000
+235,4,yes,50,18,0.36,Nov,yes,2000,Isabelle,Isabelle2000
+236,5,no,50,10,0.2,Nov,yes,2000,Isabelle,Isabelle2000
+237,5,yes,50,9,0.18,Nov,yes,2000,Isabelle,Isabelle2000
+238,6,no,50,19,0.38,Nov,yes,2000,Isabelle,Isabelle2000
+239,6,yes,50,23,0.46,Nov,yes,2000,Isabelle,Isabelle2000
+240,7,no,50,12,0.24,Nov,yes,2000,Isabelle,Isabelle2000
+241,7,yes,50,10,0.2,Nov,yes,2000,Isabelle,Isabelle2000
+242,8,no,50,13,0.26,Nov,yes,2000,Isabelle,Isabelle2000
+243,8,yes,50,18,0.36,Nov,yes,2000,Isabelle,Isabelle2000
+244,9,no,50,20,0.4,Nov,yes,2000,Isabelle,Isabelle2000
+245,9,yes,50,18,0.36,Nov,yes,2000,Isabelle,Isabelle2000
+246,10,no,50,12,0.24,Nov,yes,2000,Isabelle,Isabelle2000
+247,10,yes,50,14,0.28,Nov,yes,2000,Isabelle,Isabelle2000
+248,3,no,100,26,0.26,Fall,yes,2010,Bellfountain,Bellfountain2010
+249,3,yes,100,1,0.01,Fall,yes,2010,Bellfountain,Bellfountain2010
+250,6,no,100,46,0.46,Fall,yes,2010,Bellfountain,Bellfountain2010
+251,6,yes,100,19,0.19,Fall,yes,2010,Bellfountain,Bellfountain2010
+252,8,no,100,21,0.21,Fall,yes,2010,Bellfountain,Bellfountain2010
+253,8,yes,100,47,0.47,Fall,yes,2010,Bellfountain,Bellfountain2010
+254,10,no,100,44,0.44,Fall,yes,2010,Bellfountain,Bellfountain2010
+255,10,yes,100,15,0.15,Fall,yes,2010,Bellfountain,Bellfountain2010
+256,12,no,100,31,0.31,Fall,yes,2010,Bellfountain,Bellfountain2010
+257,12,yes,100,2,0.02,Fall,yes,2010,Bellfountain,Bellfountain2010
+258,13,no,100,17,0.17,Fall,yes,2010,Bellfountain,Bellfountain2010
+259,13,yes,100,6,0.06,Fall,yes,2010,Bellfountain,Bellfountain2010
+260,15,no,100,16,0.16,Fall,yes,2010,Bellfountain,Bellfountain2010
+261,15,yes,100,3,0.03,Fall,yes,2010,Bellfountain,Bellfountain2010
+262,17,no,100,41,0.41,Fall,yes,2010,Bellfountain,Bellfountain2010
+263,17,yes,100,17,0.17,Fall,yes,2010,Bellfountain,Bellfountain2010
+264,18,no,100,21,0.21,Fall,yes,2010,Bellfountain,Bellfountain2010
+265,18,yes,100,5,0.05,Fall,yes,2010,Bellfountain,Bellfountain2010
+266,20,no,100,59,0.59,Fall,yes,2010,Bellfountain,Bellfountain2010
+267,20,yes,100,31,0.31,Fall,yes,2010,Bellfountain,Bellfountain2010
+268,23,no,100,23,0.23,Fall,yes,2010,Bellfountain,Bellfountain2010
+269,23,yes,100,3,0.03,Fall,yes,2010,Bellfountain,Bellfountain2010
+270,24,no,100,12,0.12,Fall,yes,2010,Bellfountain,Bellfountain2010
+271,24,yes,100,3,0.03,Fall,yes,2010,Bellfountain,Bellfountain2010
+272,26,no,100,21,0.21,Fall,yes,2010,Bellfountain,Bellfountain2010
+273,26,yes,100,3,0.03,Fall,yes,2010,Bellfountain,Bellfountain2010
+274,27,no,100,25,0.25,Fall,yes,2010,Bellfountain,Bellfountain2010
+275,27,yes,100,12,0.12,Fall,yes,2010,Bellfountain,Bellfountain2010
+276,33,no,100,36,0.36,Fall,yes,2010,Bellfountain,Bellfountain2010
+277,33,yes,100,26,0.26,Fall,yes,2010,Bellfountain,Bellfountain2010
+278,34,no,100,26,0.26,Fall,yes,2010,Bellfountain,Bellfountain2010
+279,34,yes,100,2,0.02,Fall,yes,2010,Bellfountain,Bellfountain2010
+280,35,no,100,49,0.49,Fall,yes,2010,Bellfountain,Bellfountain2010
+281,35,yes,100,31,0.31,Fall,yes,2010,Bellfountain,Bellfountain2010
+282,37,no,100,20,0.2,Fall,yes,2010,Bellfountain,Bellfountain2010
+283,37,yes,100,2,0.02,Fall,yes,2010,Bellfountain,Bellfountain2010
+284,40,no,100,19,0.19,Fall,yes,2010,Bellfountain,Bellfountain2010
+285,40,yes,100,8,0.08,Fall,yes,2010,Bellfountain,Bellfountain2010
+286,44,no,100,14,0.14,Fall,yes,2010,Bellfountain,Bellfountain2010
+287,44,yes,100,1,0.01,Fall,yes,2010,Bellfountain,Bellfountain2010
+288,2,no,100,2,0.02,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+289,6,no,100,5,0.05,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+290,9,no,100,11,0.11,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+291,11,no,100,0,0,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+292,16,no,100,35,0.35,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+293,20,no,100,11,0.11,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+294,21,no,100,14,0.14,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+295,25,no,100,24,0.24,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+296,30,no,100,5,0.05,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+297,32,no,100,34,0.34,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+298,33,no,100,58,0.58,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+299,37,no,100,23,0.23,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+300,38,no,100,24,0.24,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+301,39,no,100,13,0.13,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+302,40,no,100,14,0.14,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+303,42,no,100,61,0.61,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+304,43,no,100,41,0.41,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+305,44,no,100,40,0.4,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+306,49,no,100,34,0.34,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+307,50,no,100,14,0.14,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+308,2,yes,100,0,0,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+309,6,yes,100,3,0.03,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+310,9,yes,100,5,0.05,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+311,11,yes,100,1,0.01,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+312,16,yes,100,7,0.07,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+313,20,yes,100,15,0.15,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+314,21,yes,100,11,0.11,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+315,25,yes,100,8,0.08,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+316,30,yes,100,11,0.11,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+317,32,yes,100,5,0.05,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+318,33,yes,100,33,0.33,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+319,37,yes,100,15,0.15,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+320,38,yes,100,17,0.17,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+321,39,yes,100,6,0.06,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+322,40,yes,100,15,0.15,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+323,42,yes,100,34,0.34,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+324,43,yes,100,35,0.35,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+325,44,yes,100,27,0.27,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+326,49,yes,100,19,0.19,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+327,50,yes,100,21,0.21,Fall,yes,2010,Ft. Hoskins,Ft. Hoskins2010
+328,2,no,100,27,0.27,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+329,3,no,100,42,0.42,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+330,5,no,100,41,0.41,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+331,6,no,100,11,0.11,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+332,9,no,100,27,0.27,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+333,12,no,100,21,0.21,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+334,17,no,100,14,0.14,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+335,18,no,100,12,0.12,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+336,24,no,100,37,0.37,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+337,26,no,100,21,0.21,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+338,27,no,100,17,0.17,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+339,28,no,100,24,0.24,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+340,32,no,100,39,0.39,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+341,35,no,100,20,0.2,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+342,39,no,100,49,0.49,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+343,42,no,100,26,0.26,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+344,43,no,100,48,0.48,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+345,44,no,100,49,0.49,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+346,45,no,100,11,0.11,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+347,46,no,100,24,0.24,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+348,2,yes,100,3,0.03,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+349,3,yes,100,9,0.09,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+350,5,yes,100,34,0.34,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+351,6,yes,100,8,0.08,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+352,9,yes,100,9,0.09,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+353,12,yes,100,7,0.07,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+354,17,yes,100,15,0.15,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+355,18,yes,100,5,0.05,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+356,24,yes,100,14,0.14,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+357,26,yes,100,18,0.18,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+358,27,yes,100,1,0.01,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+359,28,yes,100,10,0.1,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+360,32,yes,100,28,0.28,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+361,35,yes,100,5,0.05,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+362,39,yes,100,30,0.3,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+363,42,yes,100,4,0.04,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+364,43,yes,100,30,0.3,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+365,44,yes,100,18,0.18,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+366,45,yes,100,4,0.04,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+367,46,yes,100,4,0.04,Fall,yes,2010,Pigeon Butte,Pigeon Butte2010
+368,1W,no,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+371,2E,no,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+372,3W,no,50,0,0,January,yes,2002,Coble (Turtle Swale),Coble2002
+374,4W,no,50,2,0.04,January,yes,2002,Coble (Turtle Swale),Coble2002
+377,5E,no,50,0,0,January,yes,2002,Coble (Turtle Swale),Coble2002
+378,6W,no,50,2,0.04,January,yes,2002,Coble (Turtle Swale),Coble2002
+381,7E,no,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+383,8E,no,50,6,0.12,January,yes,2002,Coble (Turtle Swale),Coble2002
+384,9W,no,50,0,0,January,yes,2002,Coble (Turtle Swale),Coble2002
+387,10E,no,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+388,11W,no,50,0,0,January,yes,2002,Coble (Turtle Swale),Coble2002
+390,12W,no,50,2,0.04,January,yes,2002,Coble (Turtle Swale),Coble2002
+393,13E,no,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+394,14W,no,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+397,15E,no,50,5,0.1,January,yes,2002,Coble (Turtle Swale),Coble2002
+399,16E,no,50,10,0.2,January,yes,2002,Coble (Turtle Swale),Coble2002
+400,17W,no,50,5,0.1,January,yes,2002,Coble (Turtle Swale),Coble2002
+403,18E,no,50,2,0.04,January,yes,2002,Coble (Turtle Swale),Coble2002
+404,19W,no,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+407,20E,no,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+369,1E,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+370,2W,yes,50,6,0.12,January,yes,2002,Coble (Turtle Swale),Coble2002
+373,3E,yes,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+375,4E,yes,50,4,0.08,January,yes,2002,Coble (Turtle Swale),Coble2002
+376,5W,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+379,6E,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+380,7W,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+382,8W,yes,50,21,0.42,January,yes,2002,Coble (Turtle Swale),Coble2002
+385,9E,yes,50,0,0,January,yes,2002,Coble (Turtle Swale),Coble2002
+386,10W,yes,50,2,0.04,January,yes,2002,Coble (Turtle Swale),Coble2002
+389,11E,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+391,12E,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+392,13W,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+395,14E,yes,50,3,0.06,January,yes,2002,Coble (Turtle Swale),Coble2002
+396,15W,yes,50,9,0.18,January,yes,2002,Coble (Turtle Swale),Coble2002
+398,16W,yes,50,9,0.18,January,yes,2002,Coble (Turtle Swale),Coble2002
+401,17E,yes,50,8,0.16,January,yes,2002,Coble (Turtle Swale),Coble2002
+402,18W,yes,50,15,0.3,January,yes,2002,Coble (Turtle Swale),Coble2002
+405,19E,yes,50,1,0.02,January,yes,2002,Coble (Turtle Swale),Coble2002
+406,20W,yes,50,13,0.26,January,yes,2002,Coble (Turtle Swale),Coble2002
+408,51W,yes,50,4,0.08,January,yes,2003,Coble (Turtle Swale),Coble2003
+409,51E,no,50,7,0.14,January,yes,2003,Coble (Turtle Swale),Coble2003
+410,52W,no,50,20,0.4,January,yes,2003,Coble (Turtle Swale),Coble2003
+413,53E,no,50,9,0.18,January,yes,2003,Coble (Turtle Swale),Coble2003
+415,54E,no,50,9,0.18,January,yes,2003,Coble (Turtle Swale),Coble2003
+417,55E,no,50,8,0.16,January,yes,2003,Coble (Turtle Swale),Coble2003
+418,56W,no,50,9,0.18,January,yes,2003,Coble (Turtle Swale),Coble2003
+421,57E,no,50,14,0.28,January,yes,2003,Coble (Turtle Swale),Coble2003
+423,58E,no,50,8,0.16,January,yes,2003,Coble (Turtle Swale),Coble2003
+425,59E,no,50,12,0.24,January,yes,2003,Coble (Turtle Swale),Coble2003
+426,60W,no,50,7,0.14,January,yes,2003,Coble (Turtle Swale),Coble2003
+411,52E,yes,50,5,0.1,January,yes,2003,Coble (Turtle Swale),Coble2003
+412,53W,yes,50,12,0.24,January,yes,2003,Coble (Turtle Swale),Coble2003
+414,54W,yes,50,6,0.12,January,yes,2003,Coble (Turtle Swale),Coble2003
+416,55W,yes,50,0,0,January,yes,2003,Coble (Turtle Swale),Coble2003
+419,56E,yes,50,3,0.06,January,yes,2003,Coble (Turtle Swale),Coble2003
+420,57W,yes,50,1,0.02,January,yes,2003,Coble (Turtle Swale),Coble2003
+422,58W,yes,50,16,0.32,January,yes,2003,Coble (Turtle Swale),Coble2003
+424,59W,yes,50,2,0.04,January,yes,2003,Coble (Turtle Swale),Coble2003
+427,60E,yes,50,1,0.02,January,yes,2003,Coble (Turtle Swale),Coble2003
+428,2,yes,30,13,0.433333333,,no,,Green Oaks,Green Oaks
+429,4,yes,30,24,0.8,,no,,Green Oaks,Green Oaks
+430,5,yes,30,13,0.433333333,,no,,Green Oaks,Green Oaks
+431,7,yes,30,13,0.433333333,,no,,Green Oaks,Green Oaks
+432,9,yes,30,15,0.5,,no,,Green Oaks,Green Oaks
+433,10,yes,30,19,0.633333333,,no,,Green Oaks,Green Oaks
+434,11,yes,30,12,0.4,,no,,Green Oaks,Green Oaks
+435,12,yes,30,10,0.333333333,,no,,Green Oaks,Green Oaks
+436,13,yes,30,8,0.266666667,,no,,Green Oaks,Green Oaks
+437,17,yes,30,9,0.3,,no,,Green Oaks,Green Oaks
+438,18,yes,30,6,0.2,,no,,Green Oaks,Green Oaks
+439,20,no,30,4,0.133333333,,no,,Green Oaks,Green Oaks
+440,21,no,30,13,0.433333333,,no,,Green Oaks,Green Oaks
+441,24,no,30,8,0.266666667,,no,,Green Oaks,Green Oaks
+442,25,no,30,9,0.3,,no,,Green Oaks,Green Oaks
+443,28,no,30,9,0.3,,no,,Green Oaks,Green Oaks
+444,29,no,30,17,0.566666667,,no,,Green Oaks,Green Oaks
+445,30,no,30,14,0.466666667,,no,,Green Oaks,Green Oaks
