@@ -1,0 +1,71 @@
+---
+title: "test"
+date: "2022-08-02"
+header-includes:
+- \usepackage{fancyhdr}
+- \usepackage{datetime2}
+- \usepackage{ragged2e}
+- \usepackage{array}
+- \usepackage{lastpage}
+- \usepackage{footmisc}
+- \usepackage{hyperref}
+- \usepackage[hypcap]{caption}
+- \usepackage{graphicx}
+- \usepackage{ltablex}
+- \usepackage{pifont}
+- \usepackage{longtable}
+- \usepackage{pdflscape}
+- \usepackage{float}
+- \floatplacement{figure}{H}
+- \usepackage{booktabs}
+
+linkcolor: black
+mainfont: Calibri
+output:
+  pdf_document:
+    fig_caption: yes
+    fig_width: 4
+    latex_engine: xelatex
+    number_sections: yes
+    extra_dependencies: ["float"]
+---
+
+```{r libraries and functions, echo=FALSE, message=FALSE, warning=FALSE}
+
+#load libraries
+
+library(rmarkdown)
+library(knitr)
+library(kableExtra)
+library(dplyr)
+library(stringr)
+library(gtools)
+library(grid)
+library(png)
+library(geoNEON)
+library(neonUtilities)
+library(geoNEON)
+library(kableExtra)
+library(tidyverse)
+
+```
+
+
+```{r model table, echo=FALSE}
+
+mod_desc <-  data.frame("a"=c("Once/wk", "5 ind/sp", "Once/wk & 5 ind"),
+                   "b"=c("Eliminate Phase II sampling and reduce sampling frequency", "No change - Implement Phase II sampling as planned", "Reduce Phase II sampling frequency"),
+                   c=c("Maintain the species composition of Phase I sampling (three species x 30 individuals) for the duration of sampling at the site, but reduce the survey interval to once per week", "Move to Phase II species compositions (20 species x five individuals) and maintain dynamic monitoring frequency", "Move to Phase II species compositions (20 species x five individuals) but reduce surveys to once per week"))
+
+mod_desc%>% kable(booktabs = T,
+              caption = "Plant phenology optimization scenarios",
+              linesep = "",
+              col.names = c("Model Name \n(used throughout this report)",
+                           "Design Implication",
+                           "Description"))%>%
+  column_spec(1:2, width="3cm")%>%
+  column_spec(3, width = "8cm")%>%
+  kable_styling(font_size = 7) %>%
+  kable_styling(latex_options=c("hold_position"))
+
+```
