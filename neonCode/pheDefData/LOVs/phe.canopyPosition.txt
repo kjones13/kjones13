@@ -1,0 +1,10 @@
+typeName	lovName	lovElementName	lovElementCode	rank	elementStartDate	elementEndDate	elementPublicationCode	elementDesc
+Plant Phenology	phe.canopyPosition	Open grown	Open grown	1	2012-01-01	NA	Open grown	Full sun, not touching other plants, with crowns that have received full light from above and from all sides throughout most of its life, particularly during its early developmental period
+Plant Phenology	phe.canopyPosition	Full sun	Full sun	2	2012-01-01	NA	Full sun	Crown receiving full light from above and partly from the sides. Their crown form or shape appears to be free of influence from neighboring plants
+Plant Phenology	phe.canopyPosition	Partially shaded	Partially shaded	3	2012-01-01	NA	Partially shaded	Crown receive full light from above but little direct sunlight penetrates their sides
+Plant Phenology	phe.canopyPosition	Mostly shaded	Mostly shaded	4	2012-01-01	NA	Mostly shaded	Individuals that receive little direct light from above and none from the sides
+Plant Phenology	phe.canopyPosition	Full shade	Full shade	5	2012-01-01	NA	Full shade	Individuals that receive no direct sunlight either from above or the sides
+Plant Phenology	phe.canopyPosition	Dominant	Dominant	2	2012-01-01	2017-06-01	Full sun	Crown receiving full light from above and partly from the sides. Their crown form or shape appears to be free of influence from neighboring plants
+Plant Phenology	phe.canopyPosition	Co-dominant	Co-dominant	3	2012-01-01	2017-06-01	Partially shaded	Crown receive full light from above but little direct sunlight penetrates their sides
+Plant Phenology	phe.canopyPosition	Intermediate	Intermediate	4	2012-01-01	2017-06-01	Mostly shaded	Individuals that receive little direct light from above and none from the sides
+Plant Phenology	phe.canopyPosition	Overtopped	Overtopped	5	2012-01-01	2017-06-01	Full shade	Individuals that receive no direct sunlight either from above or the sides

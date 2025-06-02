@@ -1,0 +1,5 @@
+"typeName"	"lovName"	"lovElementName"	"lovElementCode"	"rank"	"elementStartDate"	"elementEndDate"	"elementPublicationCode"	"elementDesc"
+"Plant Phenology"	"phe.phenophaseStatus"	"yes"	"yes"	1	"2012-01-01"		"yes"	"yes"
+"Plant Phenology"	"phe.phenophaseStatus"	"no"	"no"	2	"2012-01-01"		"no"	"no"
+"Plant Phenology"	"phe.phenophaseStatus"	"missed"	"missed"	3	"2012-01-01"		"missed"	"missed"
+"Plant Phenology"	"phe.phenophaseStatus"	"uncertain"	"uncertain"	4	"2012-01-01"		"uncertain"	"uncertain"

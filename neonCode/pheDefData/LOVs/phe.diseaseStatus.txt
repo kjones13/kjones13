@@ -1,0 +1,3 @@
+typeName	lovName	lovElementName	lovElementCode	rank	elementStartDate	elementEndDate	elementPublicationCode	elementDesc
+Phenology	phe.diseaseStatus	healthy	healthy	1	2012-01-01		healthy	No apparent disease present
+Phenology	phe.diseaseStatus	diseased	diseased	2	2012-01-01		diseased	The individual or patch appears diseased

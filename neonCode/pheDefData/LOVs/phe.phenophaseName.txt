@@ -1,0 +1,18 @@
+typeName	lovName	lovElementName	lovElementCode	rank	elementStartDate	elementEndDate	elementPublicationCode	elementDesc
+Plant Phenology	phe.phenophaseName	Breaking leaf buds	Breaking leaf buds	1	2012-01-01		Breaking leaf buds	Breaking leaf buds
+Plant Phenology	phe.phenophaseName	Breaking needle buds	Breaking needle buds	2	2012-01-01		Breaking needle buds	Breaking needle buds
+Plant Phenology	phe.phenophaseName	Colored leaves	Colored leaves	3	2012-01-01		Colored leaves	Colored leaves
+Plant Phenology	phe.phenophaseName	Colored needles	Colored needles	4	2012-01-01		Colored needles	Colored needles
+Plant Phenology	phe.phenophaseName	Emerging needles	Emerging needles	5	2012-01-01		Emerging needles	Emerging needles
+Plant Phenology	phe.phenophaseName	Falling leaves	Falling leaves	6	2012-01-01		Falling leaves	Falling leaves
+Plant Phenology	phe.phenophaseName	Falling needles	Falling needles	7	2012-01-01		Falling needles	Falling needles
+Plant Phenology	phe.phenophaseName	Increasing leaf size	Increasing leaf size	8	2012-01-01		Increasing leaf size	Increasing leaf size
+Plant Phenology	phe.phenophaseName	Initial growth	Initial growth	9	2012-01-01		Initial growth	Initial growth
+Plant Phenology	phe.phenophaseName	Leaves	Leaves	10	2012-01-01		Leaves	Leaves
+Plant Phenology	phe.phenophaseName	Needles	Needles	11	2012-01-01		Needles	Needles
+Plant Phenology	phe.phenophaseName	Open flowers	Open flowers	12	2012-01-01		Open flowers	Open flowers
+Plant Phenology	phe.phenophaseName	Open pollen cones	Open pollen cones	13	2012-01-01		Open pollen cones	Open pollen cones
+Plant Phenology	phe.phenophaseName	Young leaves	Young leaves	14	2012-01-01		Young leaves	Young leaves
+Plant Phenology	phe.phenophaseName	Young needles	Young needles	15	2012-01-01		Young needles	Young needles
+Plant Phenology	phe.phenophaseName	Fruits	Fruits	16	2022-01-01		Fruits	Fruits
+Plant Phenology	phe.phenophaseName	Ripe fruits	Ripe fruits	17	2022-01-01		Ripe fruits	Ripe fruits
